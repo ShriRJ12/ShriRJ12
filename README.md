@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShriRJ12
+- 👋 Hi, I’m @Shrikant Jagtap
 - 👀 I’m interested in Python, Machine Learning, SQL, CPP
 - 🌱 I’m currently learning DSA, Cloud Computing
 - 💞️ I’m looking to collaborate on ...
