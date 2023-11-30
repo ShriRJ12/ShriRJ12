@@ -3,10 +3,12 @@
 ## About me
 > Hello I’m Shrikant Jagtap, BTech Computer Engineer Fresher. I am highly passionate Full stack Web Developer,
 > Ilike to work in environment which encourage me to suceed & grow professionally
-+ 🌱 I’m currently learning Full Stack Development with Java
++ 🌱 I’m currently learning Full Stack Development with Java course
++ 🧑‍💻 I’m currently working on Git and GitHub operations.
 + 📫 How to reach me,
   * LinkedIn:- [https://www.linkedin.com/in/shrikant-jagtap-a15519242]
   * EMail:- shrikantjagtap0194@gmail.com
+  * Mobile: 7709874523
 
 ## 👨‍💻My Skills
 * Languages: HTML, CSS, C++, Python, SQL, Java
