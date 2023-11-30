@@ -1,8 +1,8 @@
 ## 👋Hello, I’m Shrikant Jagtap
 
 ## About me
-> Hello I’m Shrikant Jagtap, BTech Computer Engineer Fresher. I am highly passionate Full stack Web Developer,
-> Ilike to work in environment which encourage me to suceed & grow professionally
+> Hello I’m Shrikant Jagtap, BTech Computer Engineer Fresher. I am highly passionate about Full stack Web Developer,
+> I like to work in environment which encourage me to suceed & grow professionally
 + 🌱 I’m currently learning Full Stack Development with Java course
 + 🧑‍💻 I’m currently working on Git and GitHub operations.
 + 📫 How to reach me,
